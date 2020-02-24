@@ -1,0 +1,8 @@
+#
+hardstatus alwayslastline "%{= bw} %-Lw%{= Yk}%n%f %t%{-}%+Lw %= %{W}$USER@%{C}%H %{W}%0c"
+defscrollback 6000
+defutf8 on
+term screen
+vbell on
+utf8 on
+cjkwidth on
