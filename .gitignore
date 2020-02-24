@@ -1,6 +1,9 @@
 # work-only files
 .work.*
 
+# composer fix
+**/vendor/**
+
 # Created by https://www.gitignore.io/api/vim,java,xcode,macos,swift,kotlin,android,phpunit,eclipse,composer,carthage,objective-c,sublimetext,androidstudio
 # Edit at https://www.gitignore.io/?templates=vim,java,xcode,macos,swift,kotlin,android,phpunit,eclipse,composer,carthage,objective-c,sublimetext,androidstudio
 
