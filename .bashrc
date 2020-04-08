@@ -28,7 +28,7 @@ if [ $OSTYPE = "darwin" ]; then
     alias ls='ls -aFG'
     # set directory forground cyan background default; others keep default
     export LSCOLORS='gxfxcxdxbqxegedabagacad'
-elif [ $OSTYPE = "linux" ]; then
+elif [ $OSTYPE = "linux" ] || [ $OSTYPE = "linux-gnu" ]; then
     alias ls='ls -aF --color=auto'
     export LS_COLORS='di=36:'
 fi
