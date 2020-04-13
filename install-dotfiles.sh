@@ -6,3 +6,4 @@
 cp .bashrc ~/
 cp .bash_profile ~/
 cp .cshrc ~/
+cp .git-branch.csh ~/
