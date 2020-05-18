@@ -40,3 +40,4 @@ export LC_ALL='zh_TW.UTF-8'
 export PAGER='/usr/bin/env most'
 export EDITOR='/usr/bin/env vim'
 export VISUAL='/usr/bin/env vim'
+export BASH_SILENCE_DEPRECATION_WARNING=1
