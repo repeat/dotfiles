@@ -43,6 +43,8 @@
     main-view-date-format = \"%Y/%m/%d %R\"
 [push]
     default = simple
+[pull]
+    rebase = false
 [core]
     quotepath = false
     # https://github.com/so-fancy/diff-so-fancy
