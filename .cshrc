@@ -52,10 +52,10 @@ alias '鈢' 'cd'
 set autocorrect
 set autoexpand
 set autolist
-set history = 5000
+set history = 50000
 set mail = (1 /var/mail/$USER)
 set path = (~/bin ~ ~/.composer/vendor/bin /usr/local/bin /usr/local/sbin /usr/bin /usr/sbin /bin /sbin)
-set savehist = 5000
+set savehist = 50000
 
 # environment settings
 setenv BLOCKSIZE 'k'
