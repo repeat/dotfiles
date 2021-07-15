@@ -54,7 +54,7 @@ set autoexpand
 set autolist
 set history = 50000
 set mail = (1 /var/mail/$USER)
-set path = (~/bin ~ ~/.composer/vendor/bin /usr/local/bin /usr/local/sbin /usr/bin /usr/sbin /bin /sbin)
+set path = (~/bin ~ ~/.composer/vendor/bin ~/.npm-packages/bin /usr/local/bin /usr/local/sbin /usr/bin /usr/sbin /bin /sbin)
 set savehist = 50000
 
 # environment settings
